@@ -138,9 +138,9 @@ p {
   padding-bottom: 8.5rem;
 }
 
-.wrapper {
-  margin-left: 40%;
-}
+/*.wrapper {
+  margin-left: 45%;
+}*/
 
 .wrapper h1 {
   margin-top: -2rem;
@@ -1014,7 +1014,7 @@ div.swiper-pagination-bullet:after {
   }
 
   .brand {
-    margin-top: 11rem;
+    margin-top: 5rem;
   }
 
   .brand img {
@@ -1024,7 +1024,7 @@ div.swiper-pagination-bullet:after {
   .wrapper h1 {
     margin-top: -11px;
     font-size: 24px;
-    margin-left: -3.5rem;
+    margin-left: 4rem;
   }
 
   .wrapper h2 {
@@ -1032,12 +1032,6 @@ div.swiper-pagination-bullet:after {
     margin-left: 3.5rem;
   }
 
-  .btn {
-    width: 140px;
-    height: 30px;
-    margin: 0.5rem;
-    margin-left: -2rem;
-  }
 
   .rwrapper .slide-content-wrapper .slide-content-text {
     line-height: 100%;
